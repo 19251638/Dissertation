@@ -1,0 +1,10 @@
+/* Make the entire dashboard wider */
+.main-container {
+  max-width: 2000px !important;
+  width: 95% !important;
+}
+
+/* Make columns stretch fully */
+.section.level1 {
+  width: 100% !important;
+}
